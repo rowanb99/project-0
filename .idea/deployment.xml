@@ -12,8 +12,12 @@
       <paths name="Schizo (829090ee-1b66-48ea-9caa-e09a73099837)">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/users/guest/r/rowanb99/proj0/project-0" local="$PROJECT_DIR$" />
           </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-schizo" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-schizo" />
+          </excludedPaths>
         </serverdata>
       </paths>
     </serverData>
